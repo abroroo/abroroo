@@ -1,7 +1,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Abror Iskandarov, a recent engineering graduate from [Jeonbuk National University](https://www.jbnu.ac.kr/kor/) in Korea. I like to code, and experiment with it on the web. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+Nice to meet you! I am Abror, a fresh engineering graduate from [Jeonbuk National University](https://www.jbnu.ac.kr/kor/) in Korea. I like to code, and experiment with it on the web. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-abroro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abroro/)](https://www.linkedin.com/in/abroro/)
 [![Instagram Badge](https://img.shields.io/badge/-iskandarovabror-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iskandarovabror/)](https://instagram.com/iskandarovabror)
