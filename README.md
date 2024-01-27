@@ -1,11 +1,15 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Abror Iskandarov, a recent engineering graduate from [JBNU in Korea ](https://www.jbnu.ac.kr/kor/). I like to code, and experiment with it on the web. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Abror Iskandarov, a recent engineering graduate from [Jeonbuk National University](https://www.jbnu.ac.kr/kor/) in Korea. I like to code, and experiment with it on the web. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-abroro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abroro/)](https://www.linkedin.com/in/abroro/)
 [![Instagram Badge](https://img.shields.io/badge/-iskandarovabror-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iskandarovabror/)](https://instagram.com/iskandarovabror)
 [![Gmail Badge](https://img.shields.io/badge/-iskandarov@abroro.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iskandarov@abroro.com)](mailto:iskandarov@abroro.com)
+[![Website](https://img.shields.io/badge/-abroro.com-yellow?style=flat-square&link=https://abroro.com/)](https://abroro.com)
+
+
+[![Today I Learned](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=til)](https://github.com/abroroo/til)
 
 ## ⚡ Technologies
 
@@ -30,6 +34,12 @@ I am Abror Iskandarov, a recent engineering graduate from [JBNU in Korea ](https
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abroroo&layout=compact)
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=abroroo&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues,contribs)
+
+## 🛠️  Projects
+
+[![Audiochi](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=audiochi)](https://github.com/abroroo/audiochi)
+
+[![Foodcom](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=foodcom_frontend)](https://github.com/abroroo/foodcom_frontend)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abroroo.abroroo)
