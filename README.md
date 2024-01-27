@@ -1,16 +1,7 @@
-### Hi there 👋
 
+## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-✨ _Abror_, frontend developer. With three years of web development experience, I actively code while pursuing my engineering degree. 
-
-- 🔭 I’m currently building a food catering platform for a local Korean Company
-- 📫 How to reach me: [contact me here](https://abroro.com)
-- ⚡ Fun fact: Football lover, Liverpool FC fan
-
-
-## Fancy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
-
-I am Abror Iskandarov, a recent engineering graduate from [JBNU in Korea ](https://www.jbnu.ac.kr/kor/). I like to code, learning anything about them. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Abror Iskandarov, a recent engineering graduate from [JBNU in Korea ](https://www.jbnu.ac.kr/kor/). I like to code, and experiment with it on the web. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-abroro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abroro/)](https://www.linkedin.com/in/abroro/)
 [![Instagram Badge](https://img.shields.io/badge/-iskandarovabror-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iskandarovabror/)](https://instagram.com/iskandarovabror)
@@ -37,6 +28,8 @@ I am Abror Iskandarov, a recent engineering graduate from [JBNU in Korea ](https
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=abroroo&count_private=true&show_icons=true&include_all_commits=true)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abroroo&layout=compact)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=abroroo&count_private=true&show_icons=true&include_all_commits=true&rank_icon=github&hide=issues,contribs)
+
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abroroo.abroroo)
