@@ -32,6 +32,7 @@ I am Abror Iskandarov, a recent engineering graduate from [Jeonbuk National Univ
 ![Subversion](https://img.shields.io/badge/-Subversion-9B2321?style=flat-square&logo=subversion)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
+![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abroroo&layout=compact)
