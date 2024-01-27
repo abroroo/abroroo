@@ -6,7 +6,7 @@ I am Abror Iskandarov, a recent engineering graduate from [Jeonbuk National Univ
 [![Linkedin Badge](https://img.shields.io/badge/-abroro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abroro/)](https://www.linkedin.com/in/abroro/)
 [![Instagram Badge](https://img.shields.io/badge/-iskandarovabror-purple?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iskandarovabror/)](https://instagram.com/iskandarovabror)
 [![Gmail Badge](https://img.shields.io/badge/-iskandarov@abroro.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iskandarov@abroro.com)](mailto:iskandarov@abroro.com)
-[![Website](https://img.shields.io/badge/-abroro.com-yellow?style=flat-square&link=https://abroro.com/)](https://abroro.com)
+[![Website](https://img.shields.io/badge/-abroro.com-ffd22f?style=flat-square&link=https://abroro.com/)](https://abroro.com)
 
 
 [![Today I Learned](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=til)](https://github.com/abroroo/til)
@@ -14,7 +14,7 @@ I am Abror Iskandarov, a recent engineering graduate from [Jeonbuk National Univ
 ## ⚡ Technologies
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-E2B714?style=flat-square&logo=typescript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-ffd22f?style=flat-square&logo=typescript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
