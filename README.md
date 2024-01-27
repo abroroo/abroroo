@@ -33,6 +33,7 @@ Nice to meet you! I am Abror, fresh engineering graduate from [Jeonbuk National 
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci)
+![Framer Motion](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abroroo&layout=compact)
