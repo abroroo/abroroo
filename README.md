@@ -42,7 +42,6 @@ Nice to meet you! I am Abror, fresh engineering graduate from [Jeonbuk National 
 
 [![Audiochi](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=audiochi)](https://github.com/abroroo/audiochi)
 
-[![Foodcom](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=foodcom_frontend)](https://github.com/abroroo/foodcom_frontend)
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abroroo.abroroo)
