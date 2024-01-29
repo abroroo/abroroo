@@ -46,4 +46,4 @@ Nice to meet you! I am Abror, fresh engineering graduate from [Jeonbuk National 
 
 
 
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abroroo.abroroo)
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=abroroo.abroroo&format=true)
