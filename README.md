@@ -34,7 +34,7 @@ Nice to meet you! I am Abror, fresh engineering graduate from [Jeonbuk National 
 ![Jest](https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest)
 ![CircleCI](https://img.shields.io/badge/-CircleCI-343434?style=flat-square&logo=circleci)
 ![Framer Motion](https://img.shields.io/badge/-Framer-0055FF?style=flat-square&logo=framer)
-![Cypress](https://img.shields.io/badge/-Cypress-336791?style=flat-square&logo=cypress)
+![Cypress](https://img.shields.io/badge/-Cypress-2E77BC?style=flat-square&logo=cypress)
 
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abroroo&layout=compact)
