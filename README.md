@@ -26,7 +26,7 @@ Nice to meet you! I am Abror, fresh engineering graduate from [Jeonbuk National 
 ![Expresst](https://img.shields.io/badge/-Express-58A616?style=flat-square&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-69D3A7?style=flat-square&logo=postgresql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1BB3A4?style=flat-square&logo=postgresql)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![Subversion](https://img.shields.io/badge/-Subversion-9B2321?style=flat-square&logo=subversion)
