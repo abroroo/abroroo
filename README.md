@@ -3,8 +3,8 @@
 
 Nice to meet you! I am Abror, fresh engineering graduate from [Jeonbuk National University](https://www.jbnu.ac.kr/kor/) in Korea. I like to code, and experiment with it on the web. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
 
-[![Instagram Badge](https://img.shields.io/badge/-iskandarovabror-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/iskandarovabror/)](https://instagram.com/iskandarovabror)
 [![Linkedin Badge](https://img.shields.io/badge/-abroro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abroro/)](https://www.linkedin.com/in/abroro/)
+[![Discord Badge](https://img.shields.io/badge/-abroro-5865F2?style=flat-square&logo=instagram&logoColor=white&link=https://discord.com/abroro/)](https://idiscord.com/abroro)
 [![Gmail Badge](https://img.shields.io/badge/-iskandarov@abroro.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iskandarov@abroro.com)](mailto:iskandarov@abroro.com)
 [![Website](https://img.shields.io/badge/-abroro.com-ffd22f?style=flat-square&link=https://abroro.com/)](https://abroro.com)
 
