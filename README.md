@@ -43,7 +43,7 @@ Nice to meet you! I am Abror, I like to code, and experiment with it on the web.
 ## 🛠️  Projects
 
 [![Audiochi](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=audiochi)](https://github.com/abroroo/audiochi)
-[![Foodcom](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=foodcom_frontend)](https://github.com/abroroo/footprint)
+[![Foodcom](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=footprint)](https://github.com/abroroo/footprint)
 
 
 
