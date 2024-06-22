@@ -10,6 +10,7 @@ Nice to meet you! I am Abror, I like to code, and experiment with it on the web.
 
 
 [![Today I Learned](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=til)](https://github.com/abroroo/til)
+[![Foodcom](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=foodcom_frontend)](https://github.com/abroroo/foodcom_frontend)
 
 ## ⚡ Technologies
 
