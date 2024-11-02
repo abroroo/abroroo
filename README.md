@@ -1,7 +1,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Nice to meet you! I am Abror, I like to code, and experiment with it on the web.
+Nice to meet you! I am Abror, I like to experiment things on the web.
 
 [![Linkedin Badge](https://img.shields.io/badge/-abroro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abroro/)](https://www.linkedin.com/in/abroro/)
 [![Discord Badge](https://img.shields.io/badge/-abroro-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/abroro/)](https://discordapp.com/users/abroro)
