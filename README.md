@@ -19,7 +19,6 @@ I am Abror, nice to meet you!
 ## 🛠️  Projects
 
 [![Audiochi](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=audiochi)](https://github.com/abroroo/audiochi)
-[![Foodcom](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=footprint)](https://github.com/abroroo/footprint)
 
 
 
