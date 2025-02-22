@@ -10,6 +10,7 @@ I am Abror, nice to meet you!
 
 
 [![Today I Learned](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=til)](https://github.com/abroroo/til)
+[![Cliply](https://github-readme-stats.vercel.app/api/pin/?username=abroroo&repo=clipboard-chrome-extension)](https://github.com/abroroo/clipboard-chrome-extension) 
 
 ## ⚡ Technologies
 
