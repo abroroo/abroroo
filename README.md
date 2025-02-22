@@ -1,7 +1,7 @@
 
 ## Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Abror, nice to meet you! 
+It's Abror, nice to meet you! 
 
 [![Linkedin Badge](https://img.shields.io/badge/-abroro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/abroro/)](https://www.linkedin.com/in/abroro/)
 [![Discord Badge](https://img.shields.io/badge/-abroro-5865F2?style=flat-square&logo=discord&logoColor=white&link=https://discordapp.com/users/abroro/)](https://discordapp.com/users/abroro)
